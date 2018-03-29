@@ -4,8 +4,15 @@
 # Log file
 *.log
 
+# Target files
+target/
+
 # BlueJ files
 *.ctxt
+
+# Idea files
+.idea/
+cell_tracker_viewer.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
